@@ -16,8 +16,9 @@ import java.util.Scanner;
  * Deskripsi    : Program Memasukkan Nilai DariKeyboard
  */
 public class PBO_IF2_10116414_MemasukkanNilaiDariKeyboard {
+    
     public static void main(String[] args) {
-        // TODO code application logic here
+      
         System.out.print("Masukan Nama Anda : ");
         Scanner scanner = new Scanner(System.in);
         
